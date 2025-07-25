@@ -1,5 +1,5 @@
 peliculas=[]
-contraseña = "angelo1"  
+contraseña = "12345"  
 
 #dict u objetos para los atributos (Nombre, Categoria, clasificacion, genero, idioma)
 
