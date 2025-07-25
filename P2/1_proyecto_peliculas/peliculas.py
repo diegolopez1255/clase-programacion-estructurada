@@ -1,5 +1,5 @@
 import os
-CONTRASEÑA="angelo"
+CONTRASEÑA="12345"
 peliculas = []
 
 def borrarPantalla():
